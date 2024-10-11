@@ -1,3 +1,4 @@
-To jest STARA funkcjonalnosc
+
+To jest super nowy i tani kebab
 zrobiona na galezi feature/new-function
 
